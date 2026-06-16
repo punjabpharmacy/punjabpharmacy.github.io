@@ -3,6 +3,13 @@ layout: default
 title: Home
 ---
 
+<p>
+  <strong>Quick Links:</strong> 
+  <a href="{{ '/pharmacology/' | relative_url }}">Pharmacology</a> | 
+  <a href="#">Pharmaceutics</a> | 
+  <a href="#">Job Updates</a>
+</p>
+<hr>
 <h2>Latest Exam Updates & Study Material</h2>
 
 <ul>
