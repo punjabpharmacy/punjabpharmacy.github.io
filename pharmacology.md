@@ -12,7 +12,7 @@ Access all high-yield notes, MCQs, and classifications for Pharmacology below.
       <strong>{{ post.date | date: "%b %d, %Y" }}</strong> &raquo; 
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
     </li>
-  {% empty %}
+  {% else %}
     <li>No notes in this section yet. Check back soon!</li>
   {% endfor %}
 </ul>
