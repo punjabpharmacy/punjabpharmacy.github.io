@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+google-site-verification: googlee339df85ef3374d2.html
 ---
 
 <p>
