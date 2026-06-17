@@ -18,7 +18,7 @@ title: Home
       <strong>{{ post.date | date: "%b %d, %Y" }}</strong> &raquo; 
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
     </li>
-  {% empty %}
+  {% else %}
     <li>No posts found. Please check your _posts folder!</li>
   {% endfor %}
 </ul>
