@@ -22,3 +22,8 @@ title: Home
     <li>No posts found. Please check your _posts folder!</li>
   {% endfor %}
 </ul>
+<br><hr>
+<p style="text-align: center; font-size: 0.9em;">
+  &copy; 2026 Punjab Pharmacy | 
+  <a href="{{ '/privacy-policy/' | relative_url }}">Privacy Policy</a>
+</p>
