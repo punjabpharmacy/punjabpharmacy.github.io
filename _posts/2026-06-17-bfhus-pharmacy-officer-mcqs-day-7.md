@@ -2,7 +2,7 @@
 layout: post
 title: "bfhus pharmacy officer MCQs day 7"
 date: 2026-06-17 10:00:00 +0530
-categories: mcq-bank
+categories: mcqs
 ---
 
 Welcome to **Day 7** of our ultimate 45-day BFUHS Pharmacy Officer exam preparation journey! Today, we are pushing forward with 30 entirely new, high-priority Previous Year Questions (PYQs). We have carefully selected these questions from the core pharmacy syllabus to match the exact difficulty level of the Baba Farid University of Health Sciences exams.
