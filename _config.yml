@@ -1,7 +1,11 @@
 
-title: Punjab Pharmacy
-email: pharmpunjab@gmail.com
-description: Educational resources, pharmacy notes, and syllabus updates for Punjab Drug Inspector 2026.
+title: "Punjab Pharmacy"
+email: "pharmpunjab@gmail.com"
+description: "Educational resources, pharmacy notes, and syllabus updates for Punjab Drug Inspector 2026."
 baseurl: "" 
 url: "https://punjabpharmacy.github.io"
 theme: jekyll-theme-minimal
+
+# Build settings
+plugins:
+  - jekyll-sitemap
