@@ -1,13 +1,12 @@
 ---
-title: "The Ultimate Guide to Pharmaceutics: Full Syllabus, Exam Weightage, & Study Blueprint"
+title: "The Ultimate Guide to Pharmaceutics: Full Syllabus, Exam Weightage, & Study plan"
 author: "Punjab Pharmacy"
 categories: pharmaceutics
 permalink: pharmaceutics-syllabus-guide-2026
 meta_description: "Master your pharmacy exams with Punjab Pharmacy's complete Pharmaceutics syllabus guide. Discover high-yield topics, exam weightage, and a step-by-step study blueprint."
-keywords: ["Pharmaceutics full syllabus", "introduction to pharmaceutics", "pharmaceutical dosage forms syllabus", "physical pharmacy topics", "GPAT pharmaceutics weightage", "B.Pharm pharmaceutics syllabus"]
 ---
 
-# The Ultimate Guide to Pharmaceutics: Full Syllabus, Exam Weightage, & Study Blueprint
+# The Ultimate Guide to Pharmaceutics: Full Syllabus, Exam Weightage, & Study plan
 
 Welcome to the very first installment of our brand-new series here at **Punjab Pharmacy**. If you are a pharmacy student navigating the vast oceans of your B.Pharm or Pharm.D curriculum, or an ambitious aspirant gearing up for competitive exams like GPAT, NIPER, or government pharmacist exams, you have arrived at exactly the right place. 
 
