@@ -7,7 +7,7 @@ title: Home
   <strong>Quick Links:</strong> 
   <a href="{{ '/pharmacology/' | relative_url }}">Pharmacology</a> | 
   <a href="{{ '/jurisprudence/' | relative_url }}">Jurisprudence</a> | 
-  <a href="{{ '/mcq-bank/' | relative_url }}">MCQ Bank</a>
+  <a href="{{ '/mcq-bank/' | relative_url }}">MCQ Bank</a> | 
   <a href="{{ '/pharmaceutics/' | relative_url }}">Pharmaceutics</a> | 
 </p>
 <hr>
