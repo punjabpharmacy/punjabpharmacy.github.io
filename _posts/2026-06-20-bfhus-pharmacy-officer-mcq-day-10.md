@@ -347,4 +347,4 @@ For free PDF study materials, daily automated MCQs, and instant exam notificatio
 
 👉 [Join the PUNJAB DRUG INSPECTOR AND PHARMACIST Telegram Channel](https://t.me/punjabpharm)
 
-[&larr; Previous: Review Day 9](LINK_TO_DAY_9_PAGE) | Next: Go to Day 11 Preparation &rarr;
+[&larr; Previous: Review Day 9](https://punjabpharmacy.github.io/day9/) ;
