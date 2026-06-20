@@ -1,3 +1,9 @@
+---
+layout: post
+title: "bfhus pharmacy officer MCQs day 10"
+categories: mcqs
+permalink: /bfhus-pharmacy-officer-mcq-day-10/
+---
 # Day 10: Top 30 High-Yield PYQ Pharmacy MCQs for BFUHS Preparation
 
 Hey everyone! We have officially hit double digits. Welcome to **Day 10** of our 45-day BFUHS Pharmacy Officer exam masterclass. 
