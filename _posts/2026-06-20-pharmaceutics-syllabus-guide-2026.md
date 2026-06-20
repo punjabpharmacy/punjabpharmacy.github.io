@@ -1,9 +1,7 @@
 ---
 title: "The Ultimate Guide to Pharmaceutics: Full Syllabus, Exam Weightage, & Study plan"
-author: "Punjab Pharmacy"
 categories: pharmaceutics
-permalink: pharmaceutics-syllabus-guide-2026
-meta_description: "Master your pharmacy exams with Punjab Pharmacy's complete Pharmaceutics syllabus guide. Discover high-yield topics, exam weightage, and a step-by-step study blueprint."
+permalink: /pharmaceutics-syllabus-exam-guide/
 ---
 
 # The Ultimate Guide to Pharmaceutics: Full Syllabus, Exam Weightage, & Study plan
