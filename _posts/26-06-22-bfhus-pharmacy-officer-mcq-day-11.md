@@ -235,4 +235,4 @@ D) Disinfectant fluids
 **Correct Answer:** B) Patent or Proprietary Medicines
 **Explanation:** Schedule V specifically outlines the standards, required active ingredients, and allowable vitamin content parameters for Patent or Proprietary Medicines (medicines that are formulated and sold under a brand name but are not explicitly described in the Indian Pharmacopoeia or other recognized compendia). It prevents manufacturers from marketing irrational or chemically unstable proprietary drug combinations.
 
-### Q24. The Drugs
+day 10 link : https://punjabpharmacy.github.io/bfhus-pharmacy-officer-mcq-day-10/
