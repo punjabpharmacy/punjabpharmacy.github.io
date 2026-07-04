@@ -352,4 +352,4 @@ For free daily automated MCQs, instant syllabus updates, and premium PDF study m
 
 👉 [Join the PUNJAB DRUG INSPECTOR AND PHARMACIST Telegram Channel](https://t.me/punjabpharm)
 
-[&larr; Previous: Review Day 20](LINK_TO_DAY_20_PAGE) | Next: Go to Day 22 Preparation &rarr;
+[&larr; Previous: Review Day 20](https://punjabpharmacy.github.io/bfhus-pharmacy-officer-mcq-day-20/) | Next: Go to Day 22 Preparation &rarr;
