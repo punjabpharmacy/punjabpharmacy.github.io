@@ -358,4 +358,4 @@ For free daily automated MCQs, exclusive syllabus breakdowns, and premium PDF st
 
 👉 [Join the PUNJAB DRUG INSPECTOR AND PHARMACIST Telegram Channel](https://t.me/punjabpharm)
 
-[&larr; Previous: Review Day 23](LINK_TO_DAY_23_PAGE)  &rarr;
+[&larr; Previous: Review Day 23](https://punjabpharmacy.github.io/bfhus-pharmacy-officer-mcq-day-23/)  &rarr;
