@@ -2,7 +2,7 @@
 layout: post
 title: "bfhus pharmacy officer mcq day 22"
 categories: mcqs
-permalink: bfhus-pharmacy-officer-mcq-day-22
+permalink: /bfhus-pharmacy-officer-mcq-day-22/
 ---
 # Day 22: Top 30 High-Yield PYQ Pharmacy MCQs for BFUHS Preparation
 
