@@ -132,4 +132,15 @@ This is just the beginning of the **Indian Pharmacy Guide**. Stay tuned as we wi
 *Disclaimer: The syllabus and weightage analysis provided are based on historical trends of Indian pharmacy competitive exams (RRB, State PSCs, UPSC DI). Candidates are advised to always check the latest official notifications for any syllabus updates.*
 
 &copy; 2026 Indian Pharmacy Guide. All rights reserved. Authored by the Indian Pharmacist.
+---
+
+### 🔄 Review Previous High-Yield Concepts
+
+Spaced repetition is the key to memorizing volatile pharmacognosy and pharmacology facts. If you missed our earlier quizzes, test yourself here:
+
+* [**⬅️ Review: BFHUS Pharmacy Officer MCQs - Day 7**](/mcqs/2026/06/17/bfhus-pharmacy-officer-mcqs-day-7.html)
+* [**📖 Read the Ultimate Pharmacognosy Syllabus Guide**](/pharmacognosy-syllabus/)
+* [**🏠 Back to Homepage**](/)
+
+
 
