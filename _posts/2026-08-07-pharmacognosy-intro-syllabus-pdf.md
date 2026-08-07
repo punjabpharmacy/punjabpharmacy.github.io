@@ -160,4 +160,15 @@ Class dismissed.
 ### 📥 Additional Resources
 
 [**Click here to view and download the full Pharmacognosy Guide (Google Doc)**](https://docs.google.com/document/d/1dIFjgCCN5WeF9b6Jf9QPAifg9y-Mqxad8FQDAaGxgTE/edit?usp=drivesdk)
+---
+
+### 🔄 Review Previous High-Yield Concepts
+
+Spaced repetition is the key to memorizing volatile pharmacognosy and pharmacology facts. If you missed our earlier quizzes, test yourself here:
+
+* [**⬅️ Review: BFHUS Pharmacy Officer MCQs - Day 7**](/mcqs/2026/06/17/bfhus-pharmacy-officer-mcqs-day-7.html)
+* [**📖 Read the Ultimate Pharmacognosy Syllabus Guide**](/pharmacognosy-syllabus/)
+* [**🏠 Back to Homepage**](/)
+
+
 
