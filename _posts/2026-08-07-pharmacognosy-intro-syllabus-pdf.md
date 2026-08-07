@@ -155,3 +155,9 @@ Class dismissed.
 
 ---
 *Disclaimer: This lecture material is tailored for competitive pharmacy examination preparation in India. Always refer to standard textbooks (like Trease & Evans, Kokate) and the official latest syllabus of your respective examination boards.*
+---
+
+### 📥 Additional Resources
+
+[**Click here to view and download the full Pharmacognosy Guide (Google Doc)**](https://docs.google.com/document/d/1dIFjgCCN5WeF9b6Jf9QPAifg9y-Mqxad8FQDAaGxgTE/edit?usp=drivesdk)
+
