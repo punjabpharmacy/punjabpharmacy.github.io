@@ -2,7 +2,7 @@
 layout: post
 title: "Lecture 2: The Soul of Traditional Medicine – AYUSH Systems and Ayurvedic Formulations"
 permalink: /traditional-system-of-medicines-pdf/
-categories: Pharmacognosy
+categories: pharmacognosy
 ---
 
 # Lecture 2: The Soul of Traditional Medicine – AYUSH Systems and Ayurvedic Formulations
