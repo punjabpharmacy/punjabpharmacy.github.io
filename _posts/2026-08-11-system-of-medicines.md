@@ -179,6 +179,12 @@ Class dismissed.
 ---
 ---
 
+### 📥 Download Today's Lecture Notes
+
+[**Click here to view and download the complete AYUSH Systems & Ayurvedic Formulations Guide (Google Doc)**](https://docs.google.com/document/d/1OR1R6hTx-WLdUjNw2RCk85UqiESafP9NU2v_Y3N2W-4/edit?usp=drivesdk)
+
+---
+
 ### 🔗 Essential Links & Navigation
 
 Keep your preparation on track by exploring our other crucial resources. Do not break the chain!
