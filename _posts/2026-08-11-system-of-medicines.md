@@ -175,5 +175,21 @@ Keep dispensing, keep coding your future, and keep studying.
 
 Class dismissed.
 
+
 ---
+---
+
+### 🔗 Essential Links & Navigation
+
+Keep your preparation on track by exploring our other crucial resources. Do not break the chain!
+
+*   🏠 **[Indian Pharmacy Guide Home Page](https://punjabpharmacy.github.io/)** 
+    *Return to the main hub to explore all our study modules, exam strategies, and the latest updates.*
+
+*   📖 **[Previous Post: Lecture 1 - Introduction & Scope of Pharmacognosy](https://punjabpharmacy.github.io/pharmacognosy-introduction-scope-pdf/)** 
+    *Missed the beginning? Make sure your foundation is rock solid by reviewing our very first lecture.*
+
+*   📝 **[Test Your Knowledge: BFHUS Pharmacy Officer MCQs (Day 7)](https://punjabpharmacy.github.io/mcqs/2026/06/17/bfhus-pharmacy-officer-mcqs-day-7.html)** 
+    *Active recall is the key to cracking the DI and State Pharmacist exams. Jump into our MCQ series and test what you have learned today!*
+
 *Disclaimer: This study material is designed for competitive pharmacy examinations (RRB, State PCS, DI). For practical manufacturing or clinical application, always consult the official Ayurvedic Pharmacopoeia of India (API) and authorized medical practitioners.*
