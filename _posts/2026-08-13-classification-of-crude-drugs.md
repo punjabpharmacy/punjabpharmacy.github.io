@@ -275,5 +275,11 @@ Do not stop here. To crack the DI and state exams, you must connect the dots. Us
 
 *   📝 **[Test Your Knowledge: BFHUS Pharmacy Officer MCQs (Day 7)](https://punjabpharmacy.github.io/mcqs/2026/06/17/bfhus-pharmacy-officer-mcqs-day-7.html)** 
     *Theory is useless without practice. Jump into our MCQ series and test your brain right now!*
+    
+---
+
+### 📥 Download the Master Notes for Lecture 3
+
+[**Click here to view and download the complete Classification of Crude Drugs Guide (Google Doc)**](https://docs.google.com/document/d/1Lbtl6V5w9Ofl71IxOASxgTSObzd81gMrKJf8djDM3KQ/edit?usp=drivesdk)
 
 *Disclaimer: This study module is designed strictly for competitive pharmacy examinations (DI, State PCS, RRB) in India. Always refer to the latest editions of standard textbooks like Kokate, Trease & Evans, and the official Pharmacopoeia for final dispute resolution in exams.*
